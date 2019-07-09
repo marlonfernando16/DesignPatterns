@@ -7,6 +7,6 @@ public abstract class AbstracaoLista {
 		this.lista = lista;
 	}
 	
-	public abstract void adicionar();
+	public abstract void adicionar(String s);
 	public abstract void imprimir();
 }
